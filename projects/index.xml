@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on 博客</title>
+    <link>https://2016Peter.github.io/projects/</link>
+    <description>Recent content in Projects on 博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-zn</language>
+    <lastBuildDate>Mon, 13 Nov 2017 12:21:21 -0500</lastBuildDate>
+    
+	<atom:link href="https://2016Peter.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>War3</title>
+      <link>https://2016Peter.github.io/projects/photography/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:21 -0500</pubDate>
+      
+      <guid>https://2016Peter.github.io/projects/photography/</guid>
+      <description>魔兽争霸游戏简介 《魔兽争霸》 最早是在1994年发布的，其制作公司就是大名鼎鼎的暴雪，相信大家还记的暗黑破坏神和星际争霸吧，他们都是暴雪给我们带来的无限激情。94年的最初版本英文名称是：Warcraft：Orcs &amp;amp; Humans。从这时开始，暴雪（Blizzard）这个名字第一次出现于游戏包装盒上。之前暴雪也以&amp;rdquo;Silicon &amp;amp; Synapse&amp;rdquo;、&amp;rdquo;Chaos&amp;rdquo;等名称开发过一些电视游戏平台上的游戏，影响有限。虽然此作被一些人认为是当时大红大紫的《沙丘2》的跟风之作，但是其首开先河的即时战略联网模式为此后的即时战略游戏多人模式打下了非常好的基础，竞技游戏由此有了发端，“与人斗其乐无穷”的道理在暴雪的游戏中得到了非常好的验证。</description>
+    </item>
+    
+    <item>
+      <title>Mario Maker</title>
+      <link>https://2016Peter.github.io/projects/design/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://2016Peter.github.io/projects/design/</guid>
+      <description>马里奥制造(Mario Maker)》是任天堂公司在2014年E3期间公开的一款WiiU新作，游戏已于2015年9月10日发售。[1] 官方透露，玩家们在本作中可以通过网络来分享自己制作的关卡。
+本作中玩家们能够利用本作提供的各种素材来打造有趣的关卡，制造独特的游戏体验。[1] 而目前已经确认选择的素材风格包含《超级马里奥兄弟》、《超级马里奥兄弟3》、《超级马里奥世界》和《新超级马里奥兄弟U》。[1] 其中宫本茂再度确认玩家们在本作中可以通过网络来分享自己创造的关卡，当然也可以下载其他玩家的关卡来进行挑战。此外任天堂针对这一要素还设置了人气排名，让大家能够一眼看到那些由玩家亲自创作的热门关卡。
+距《马里奥制造》发售整20天，任天堂发表了这款游戏的销售和运营数据：[2] 全球销量达到100万份，玩家创造的自制关卡数达到220万，全球玩家游玩关卡次数超过7500万次。[2]</description>
+    </item>
+    
+    <item>
+      <title>More</title>
+      <link>https://2016Peter.github.io/projects/writing/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
+      
+      <guid>https://2016Peter.github.io/projects/writing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
